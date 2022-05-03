@@ -9,10 +9,6 @@
 
 <br/>
 
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edualves88)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edualves88)
-
 ### Technologies 👨‍💻 :  
 <br/>
 
@@ -22,5 +18,9 @@
 <br/>
 
 Contact:
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/edualves88)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edualves88)
+<br/>
 
 edu.alves88@outlook.com
