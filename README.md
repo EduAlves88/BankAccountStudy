@@ -6,7 +6,7 @@
   <li>private declaration
   <li>Heritage
   <li>Overwrite
-</ul>
+
 <br/>
 
 ### Technologies 👨‍💻 :
